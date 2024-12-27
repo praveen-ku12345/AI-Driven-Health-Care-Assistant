@@ -1,4 +1,4 @@
-# Disease Prediction System
+# Personalized Medical Recommendation System
 
 This is a Flask-based web application that predicts diseases based on user-provided symptoms using a machine learning model. The system integrates various datasets to provide detailed information about diseases, including descriptions, precautions, medications, diet recommendations, and workout suggestions.
 
