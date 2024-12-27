@@ -30,7 +30,7 @@ This is a Flask-based web application that predicts diseases based on user-provi
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/disease-prediction-system.git
+   git clone https://github.com/praveen-ku12345/AI-Driven-Health-Care-Assistant.git
    cd disease-prediction-system
    ```
 
